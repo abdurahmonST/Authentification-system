@@ -32,3 +32,4 @@ coverage/
 
 # Optional: database files
 *.local.db
+.env
